@@ -87,7 +87,7 @@ SharePoint group information, including details about group members. Typical exa
             "AadObjectId": "120673cd-5672-4d1c-8573-e390abbfc52d",
             "Name": "Office 365 Adoption Members",
             "Email": "office365adoption@M365x16144201.onmicrosoft.com",
-            "Type": "SecurityGroup"
+            "TypeV2": "SecurityGroup"
         }
     ],
     "Operation": "Full",
