@@ -164,7 +164,10 @@ The SharePoint Sites dataset includes information about every site in the tenant
     "IsExternalSharingEnabled": true,
     "SiteConnectedToPrivateGroup": true,
     "Privacy": "Private",
-    "SensitivityLabelInfo": {},
+    "SensitivityLabelInfo": {
+      "Id": "123e4567-e89b-12d3-a456-426614174000",
+      "DisplayName": "Confidential"
+    },
     "IBMode": "Open",
     "Owner": {
         "AadObjectId": "3d7237e5-c802-4e39-a87f-dfac34eb1447",
